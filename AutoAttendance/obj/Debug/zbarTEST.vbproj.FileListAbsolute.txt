@@ -1,0 +1,14 @@
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\bin\Debug\zbarTEST.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\bin\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\bin\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\bin\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST\zbarTEST\obj\Debug\zbarTEST.zBar.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\bin\Debug\zbarTEST.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.pdb

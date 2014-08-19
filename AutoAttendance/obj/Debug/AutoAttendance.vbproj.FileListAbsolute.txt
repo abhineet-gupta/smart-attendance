@@ -1,0 +1,64 @@
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\bin\Debug\zbarTEST.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\bin\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\bin\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\bin\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.zBar.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\zbarTEST - Copy\zbarTEST\obj\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\bin\Debug\zbarTEST.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\bin\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\bin\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\bin\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\zbarTEST.attendance.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\zbarTEST.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\zbarTEST.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\zbarTEST.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance (email via proxy)\zbarTEST\obj\Debug\zbarTEST.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\bin\Debug\AutoAttendance.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\bin\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\bin\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\bin\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.attendance.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\AutoAttendance\AutoAttendance\obj\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.attendance.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\bin\Debug\AutoAttendance.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\bin\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\bin\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\bin\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (email via local SMTP)\AutoAttendance\obj\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.attendance.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.Resources.resources
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Prototypes\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.exe.config
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Prototypes\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Prototypes\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\2014\USP\Involvements\Smart Classroom\Smart Attendance\Prototypes\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.exe.config
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.exe
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.pdb
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\bin\Debug\AutoAttendance.xml
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.attendance.resources
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.Resources.resources
+E:\Dropbox\Docs\Dev\Visual Studio\Smart Attendance (Email via external SMTP) 1\AutoAttendance\obj\Debug\AutoAttendance.vbproj.GenerateResource.Cache
